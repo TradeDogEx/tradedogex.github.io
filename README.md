@@ -41,4 +41,4 @@ Coming Soon
 - Twitter: [TradeDogEx](https://twitter.com/TradeDogEx)  
 - Instagram: [TradeDogEx](https://instagram.com/TradeDogEx)  
 
-Early supporters = strongest holders 🤝
+Early supporters = strongest holders 🤝. 
