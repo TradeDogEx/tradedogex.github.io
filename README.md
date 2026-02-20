@@ -1,4 +1,4 @@
-![TradeDogEx Banner](dog-goggles-banner.png)
+file_00000000708c7208b63be10569f087aa.png
 
 **Community-driven trading token built for traders & holders**
 
