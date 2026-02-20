@@ -1,5 +1,6 @@
+![TradeDogEx Banner](dog-goggles-banner.png)
 
-
+**Community-driven trading token built for traders & holders**
 
 # TradeDogEx
 
@@ -41,4 +42,4 @@ Coming Soon
 - Twitter: [TradeDogEx](https://twitter.com/TradeDogEx)  
 - Instagram: [TradeDogEx](https://instagram.com/TradeDogEx)  
 
-Early supporters = strongest holders 🤝. 
+Early supporters = strongest holders 🤝
