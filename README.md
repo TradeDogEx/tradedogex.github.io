@@ -1,5 +1,5 @@
 
-![TradeDogEx Banner](dog-goggles-banner.png)
+
 
 # TradeDogEx
 
