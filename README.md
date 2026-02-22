@@ -1,4 +1,4 @@
-![TradeDogEx Banner](https://raw.githubusercontent.com/tradedogex/tradedogex/main/file_00000000708c7208b63be10569f087aa.png) 
+![TradeDogEx Banner](file_00000000708c7208b63be10569f087aa.png)
 
 **Community-driven trading token built for traders & holders**
 
